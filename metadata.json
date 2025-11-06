@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Tuits con IA",
+  "description": "Una aplicación para generar tuits creativos y atractivos sobre cualquier tema utilizando la IA de Gemini. Elige un tono y obtén varias opciones listas para publicar en X.",
+  "requestFramePermissions": []
+}
